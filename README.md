@@ -1,2 +1,2 @@
 # gym-app
-iOS/Android Gym booking system
+Android Gym booking system
